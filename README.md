@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hi there 👋</h3>
   <p>
-    I'm Lee Byung-Muk, a front-end developer.
+    I'm ByeongMuk Lee, a front-end developer.
   </p>
 
   ### Tech Stack
