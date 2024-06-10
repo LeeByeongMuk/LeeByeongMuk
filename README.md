@@ -39,7 +39,7 @@
   #### Contacts
   <p>
     <a href="mailto:mansogod@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://leebyeongmuk.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+    <!-- <a href="https://leebyeongmuk.github.io/"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> -->
   </p>
 </div>
 <!--
