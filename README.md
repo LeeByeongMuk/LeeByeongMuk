@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi there 👋
 I'm ByeongMuk Lee, a front-end developer.
 
@@ -34,3 +36,5 @@ I'm ByeongMuk Lee, a front-end developer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:mansogod@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://manso98.notion.site/23723aa1c0bb44828b52fc57efa6639e)
+
+</div>
